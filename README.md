@@ -134,11 +134,7 @@ Common names are stated in English.
 
 **ISpecimenDAO:** Interface for Room to persist Specimen data  
 
-## Scrum Roles
 
-- DevOps/Product Owner/Scrum Master: Brandan Jones  
-- Frontend Developer: Brandan Jones  
-- Integration Developer: Brandan Jones  
 
 ## Weekly Meeting
 
