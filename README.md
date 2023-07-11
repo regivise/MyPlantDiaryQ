@@ -4,7 +4,7 @@
 
 Design Document  
 
-Brandan Jones  / Reginald Odhiambo(Learning)
+ Reginald Odhiambo
 
 ## Introduction 
 
