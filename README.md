@@ -136,15 +136,6 @@ Common names are stated in English.
 
 
 
-## Weekly Meeting
-
-Sunday at 7 PM.  Use this WebEx:
-
-Meeting Information
-[Office Hours WebEx](https://ucincinnati.webex.com/ucincinnati/j.php?MTID=m4eae59003bb943cc093fcd3f287864db)
-Meeting number:
-616 881 859
-
 
 
 
